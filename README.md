@@ -5,4 +5,4 @@
 * Script database sql server 
 * Libraries support
 
-© QuangDat 2022| https://www.facebook.com/datmaphihi
+© QuangDat | https://www.facebook.com/datmaphihi

@@ -1,4 +1,4 @@
-# Welcome to Detal-Clinic Repository 👋
+# Welcome to Shoe Store Project 👋
 
 ## You will find in this repository the following stuff:
 * Java source code  

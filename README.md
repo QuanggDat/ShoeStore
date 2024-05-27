@@ -5,6 +5,6 @@
 * Database : Microsoft SQL Server 
 
 ## Architecture 
-![download](https://github.com/QuanggDat/DentalClinic/assets/108293525/59dafe9b-2109-4914-9fe6-52f1c1027349)
+![design-patterns-mvc-diagram](https://github.com/QuanggDat/ShoeStore/assets/108293525/42d4bf96-4400-4cbd-92b7-f149e692b96e)
 
 © QuangDat | https://www.facebook.com/datmaphihi

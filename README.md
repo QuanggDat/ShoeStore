@@ -1,4 +1,4 @@
-# Welcome to Shoe Store Project 👋
+# Welcome to Shoe Store Project 👋👋
 
 ## Technology 
 * Language : Java, HtmL, CSS, and Javascript
